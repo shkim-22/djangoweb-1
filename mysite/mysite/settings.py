@@ -82,7 +82,7 @@ DATABASES = {
         'NAME':'touristDB',
         'USER':'root',
         'PASSWORD':'mysql',
-        'HOST':'127.0.0.1',
+        'HOST':'mysql',
         'PORT':'3306',
     }
 }
