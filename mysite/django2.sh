@@ -1,5 +1,6 @@
 #!/bin/bash
 git clone https://github.com/ahn1492/djangoweb.git
+sleep 90s
 
 python3 /djangoweb/mysite/manage.py makemigrations
 sleep 5s
